@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a passionate tech enthusiast currently diving deep into:
 
