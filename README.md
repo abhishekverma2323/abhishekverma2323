@@ -10,11 +10,11 @@
 
 I’m a passionate tech enthusiast currently diving deep into:
 
+- 💻 **Backend Development**
+- 🔍 **Problem Solving & DSA**
 - 🤖 **Machine Learning & AI**
 - 🧠 **Deep Learning & Neural Networks**
 - 📊 **Data Analytics & Visualization**
-- 💻 **Full-Stack Development**
-- 🔍 **Problem Solving & DSA**
 
 Currently building a powerful **intelligent chatbot** with:
 - NLP (Natural Language Processing)
@@ -35,12 +35,7 @@ Currently building a powerful **intelligent chatbot** with:
 ---
 
 ## 📈 Current Goals
-
-- ✅ Master ML & DL Concepts  
-- ✅ Build impactful mini-projects  
-- 🚧 Explore NLP & AI Ethics  
-- 🚀 Crack top tech internships (2026/27 batch)
-
+Backend Developer With strong Problem solving skills  
 ---
 
 ## 📬 Let's Connect
@@ -50,5 +45,4 @@ Currently building a powerful **intelligent chatbot** with:
 - 💻 [GitHub](https://github.com/abhishekverma2323)
 
 ---
-
-> *“I’m not a genius. I’m just passionately curious.”* – Albert Einstein
+>
