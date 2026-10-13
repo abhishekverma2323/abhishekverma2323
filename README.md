@@ -2,7 +2,6 @@
 
 🎓 **B.Tech CSE Student | AIML Specialization**  
 📍 *Amity University, Noida*  
-🔬 Focused on **Artificial Intelligence, Machine Learning**, and **Neural Networks**
 
 ---
 
@@ -15,12 +14,6 @@ I’m a passionate tech enthusiast currently diving deep into:
 - 🤖 **Machine Learning & AI**
 - 🧠 **Deep Learning & Neural Networks**
 - 📊 **Data Analytics & Visualization**
-
-Currently building a powerful **intelligent chatbot** with:
-- NLP (Natural Language Processing)
-- Emotion Detection
-- Weather & News APIs
-- User Authentication & Chat History
 
 ---
 
